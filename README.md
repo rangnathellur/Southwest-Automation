@@ -20,7 +20,7 @@ SouthWestTest.java: Below are the tests covered
 dropdown rather than sending them directly. Also, using Calendar functionality.
 5. Once all the options are filled in, Search for results
 
-SearchResultsTest.java: Below are the tests covered
+SearchResultsTest.java: Below are the tests covered 
 6.On the SearchResultsPage, validate your inputs (Airports and Dates) to make sure the right search
 has been made.
 7. Filter by “Nonstop” and validate that only “Nonstop” flights are displayed.
